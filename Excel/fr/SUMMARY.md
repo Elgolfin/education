@@ -16,11 +16,10 @@
 ## Travailler avec Excel
 
 1. [Introduction aux cellules](./02.01.introduction-cellules.md)
-2. L'entrée de données dans une cellule
-3. Introduction aux formules
-4. Mise en forme de données
-5. Sélection de cellules
-6. Formater les cellules
+2. [L'entrée de données dans une cellule](./02.02.entree-donnees-cellule.md)
+3. Mise en forme de données
+4. Sélection de cellules
+5. Formater les cellules
 
 ## Les Formules
 
