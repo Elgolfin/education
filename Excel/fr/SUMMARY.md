@@ -2,7 +2,7 @@
 
 ## Les bases
 
-1. L'interface utilisateur
+1. [L'interface utilisateur](./01.01.interface-utilisateur.md)
 2. Le menu ***Fichier***
 3. L'entrée de données
 4. Naviguer dans une feuille de calcul
@@ -15,7 +15,7 @@
 
 ## Travailler avec Excel
 
-1. Introduction aux cellules
+1. [Introduction aux cellules](./02.01.introduction-cellules.md)
 2. L'entrée de données dans une cellule
 3. Introduction aux formules
 4. Mise en forme de données
@@ -27,4 +27,4 @@
 1. Saisie d'une formule
 2. Référencement d'une plage de cellules
 3. Fonctions
-4. Messages d'erreurs liés aux formules
+4. [Messages d'erreurs liés aux formules](./03.04.erreurs.md)
